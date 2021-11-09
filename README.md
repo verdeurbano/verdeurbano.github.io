@@ -9,7 +9,7 @@ Somos un grupo de estudiantes de EAFIT apasionados por la conservación de los e
 
 ## Proyecto:
 
-¡¡¡PEGAR ACÁ EL LINK AL VIDEO!!!
+https://www.youtube.com/watch?v=ZWNLMQjDRqI&ab_channel=IsabelPiedrahita
 
 Usamos la danza y el piano para concientizar sobre el espacio verde de nuestro hogar, y motivarte a protegerlo. Nuestro objetivo es generar conciencia que perdure sobre la importancia de los espacios verdes mediante nuestras habilidades artísticas.
 
