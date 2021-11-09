@@ -52,5 +52,12 @@ Es por eso que, es nuestro deber en primera instancia, usar la tecnología sea c
 |Página web|17/10|2/11|Completo|
 |Presentación final.|26/10|2/11|Completo|
 
+## Fuentes
+
+[1] Flores, J. Chaparro L. 2019. Análisis del déficit de espacio público verde, por efecto del crecimiento urbanístico de la ciudad de Medellín. Recuperado: 30/8/2021 de https://repository.usc.edu.co/bitstream/handle/20.500.12421/4601/AN%C3%81LISIS%20DEL%20D%C3%89FICIT.pdf?sequence=1&isAllowed=y
+[2] Minambiente. Diciembre, 2015. Informa Nacional de Calidad Ambiental Urbana. Recuperado 30/8/2021 de https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sustancias_qu%C3%ADmicas_y_residuos_peligrosos/Informe_Nacional_de_Calidad_Ambiental_Urbana_poblaci%C3%B3n_superior_a_500.000_habitantes._A%C3%B1o_2013.pdf
+[3] Economist Intelligence Unit. S.F. Índice de Ciudades Verdes de América Latina. Recuperado 30/8/2021 de http://plataforma.responsable.net/sites/default/files/indice_de_ciudades_verdes_de_america_latina.pdf
+[4] Russo, A. Cirella, G. 5/10/2018. Modern Compact Cities: How Much Greenery Do We Need? Recuperado 30/8/2021 de https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6209905/
+[5] Colding, J. Gren, A. Barthel, S. The Incremental Demise of Urban Green Spaces Recuperado 30/8/2021 de MDPI.
 
 
