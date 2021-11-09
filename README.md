@@ -28,7 +28,7 @@ En el 2013 la proporción de espacios verdes por habitante en Medellín era de 9
 ## Actividades Realizadas
 
 |Actividad| Fecha Inicio| Fecha Fin|
-|-----|-----|
+|-----|-----|-----|
 |Coreografía|20/9|2/10|
 |Piano|20/9|25/9|
 |Grabación audio|26/9|26/9|
