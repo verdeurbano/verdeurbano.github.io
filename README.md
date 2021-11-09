@@ -20,3 +20,10 @@ Usamos la danza y el piano para concientizar sobre el espacio verde de nuestro h
 - ¡Visita tus parques cercanos! si los disfrutamos los protegemos.
 - ¡Toma acción social! Esfuerzate por concientizar a tu comunidad.
 
+## Definición del Problema
+
+El tema que trataremos es la pérdida de las zonas verdes de Medellín. El crecimiento urbanístico de la ciudad se ha caracterizado por una gran pérdida de espacios naturales, esto es un problema no solo por que se ponen en peligro los animales y plantas de la región, sino porque también va  de la mano de varios otros problemas como la construcción masiva no planeada en zonas que no son aptas para vivienda, y que por ende no producen una buena calidad de vida. [1]
+En el 2013 la proporción de espacios verdes por habitante en Medellín era de 9.36 m2/habitante, esta está solo un poco por encima del mínimo recomendado por las naciones unidas de 9 m2/habitante [2], y con el paso del tiempo hasta el 2021 nos encontramos en una tasa de solo 5 m2/habitante [3]. Esto resulta en un aumento en la temperatura, aumento del ozono a la altura de piso, y a una disminución de oxígeno. Adicionalmente, los espacios verdes mitigan los efectos de la polución y el fenómeno de la isla de calor urbana, además de traer beneficios para la salud de los ciudadanos, como disminuciones en las enfermedades respiratorias como asma, COPD, e infecciones respiratorias, adicionalmente las personas que viven cerca de zonas verdes tienden a ser más activas, resultando en una mejora a la salud cardiovascular de estas, por último,  las zonas verdes también traen mejoras a la salud mental de los ciudadanos, quienes serán menos propensos a sufrir de ansiedad y depresión . [4]
+
+
+![Diagram](https://drive.google.com/file/d/1ObGSzr3k7F75DUBV5PwYOq9F2njY2kwI/view?usp=sharing)
